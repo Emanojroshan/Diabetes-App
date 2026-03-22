@@ -168,7 +168,7 @@ This application is for educational purposes only and should not be considered a
 **Emanojroshan**
 
 * GitHub: https://github.com/Emanojroshan
-* LinkedIn: (Add your LinkedIn link)
+* LinkedIn:www.linkedin.com/in/epanagandla-manojroshan-186634373
 
 ---
 
