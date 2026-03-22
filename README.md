@@ -135,7 +135,7 @@ http://127.0.0.1:5000/
 
 ### 🏠 Home Interface
 
-(https://github.com/Emanojroshan/Diabetes-App/blob/7cf611a98abd58c2829c3a0cfcc8a10789149bd3/screenshots/home.png)
+![Home](screenshots/home.png)
 
 ### 📊 Prediction Result
 
